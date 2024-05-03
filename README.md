@@ -1,2 +1,1 @@
-# Quantam_drugpredictionmodel
-QuantamComputers ML
+# Zoltraakを用いた量子機械学習モデルによるDAT阻害剤の予測
